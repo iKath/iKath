@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath)(https://github.com/iKath/QuantumultX)]
+[![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath)](https://github.com/iKath/QuantumultX)
 <!--
 **iKath/iKath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
