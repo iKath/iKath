@@ -12,7 +12,7 @@
   <a href="https://twitter.com/iKath_x">Twitter</a> •
   <a href="https://t.me/imKath">Telegram</a>  
 <p align="center">
-  <a href="https://t.me/Kaleidoscopc"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></a>
+  <a href="https://t.me/Kaleidoscopc"><img src="https://github.com/iKath/iKath/blob/main/image/cat.gif" width="40"></a>
   </p>
 </p>
 <p align="center">
