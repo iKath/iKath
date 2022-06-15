@@ -1,20 +1,9 @@
 <p align="center">
+  [![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath&show_icons=true&theme=merko)](https://github.com/iKath/QuantumultX)]
+  </p>
+<h2 align="center">I'm Kath<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h2>
+<p align="center">
+  <a href="https://twitter.com/iKath_x">Twitter</a> •
+  <a href="https://t.me/imKath">Telegram</a>
   <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Happy.gif" width="27px">
-  [![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath)](https://github.com/iKath/QuantumultX)
-  <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Pikachu.gif" width="240px" align="center">
-  
-
-<!--
-**iKath/iKath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
