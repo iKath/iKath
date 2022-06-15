@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath)](https://github.com/iKath/QuantumultX)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Happy.gif" width="27px">
+  [![Kath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kath)](https://github.com/iKath/QuantumultX)
+  <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Pikachu.gif" width="240px" align="center">
+  
+
 <!--
 **iKath/iKath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
