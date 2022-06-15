@@ -4,9 +4,11 @@
 <p align="center">
   <a href="https://t.me/Kaleidoscopc"><img src="https://github.com/iKath/iKath/blob/main/image/Christmas.GIF"></a>
   </p> 
+<p align="center">
+  <a href="https://t.me/Kaleidoscopc"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></a>
+  </p>
 
-
-<h2 align="center">I'm Kath<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h2>
+<h2 align="center">I'm Kath"></h2>
 <p align="center">
   <a href="https://instagram.com/ikath_x.x">Instagram</a> •
   <a href="https://twitter.com/iKath_x">Twitter</a> •
